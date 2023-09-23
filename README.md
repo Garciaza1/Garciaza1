@@ -9,7 +9,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Garciaza1)](https://github.com/anuraghazra/github-readme-stats)
 
-![WELLCOME_TO_MY_GITHUB_PROFILE_😎-transformed](https://github.com/Garciaza1/Garciaza1/assets/102680004/6895fbfc-c172-4dd5-88cb-6079ca12fab4)
+![WELLCOME TO MY GITHUB PROFILE 😎 (2)](https://github.com/Garciaza1/Garciaza1/assets/102680004/0ca9726f-212e-486f-95a5-f935df9fb08a)
 
 
 trasncription:
