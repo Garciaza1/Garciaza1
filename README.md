@@ -36,7 +36,18 @@ Node.js(Express.js)
 SQL (phpmyadmin/oracle)
 scrum
 Cyber ​​Security
+
+
+
+CRETIFICAÇÕES:
+
+
 <!---
 Garciaza1/Garciaza1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+--->[Certificate_scrum.pdf](https://github.com/Garciaza1/Garciaza1/files/12706716/Certificate_scrum.pdf)
+[certificado_Udemy_programação-para-leigos-do-basico-ao-avançado.pdf](https://github.com/Garciaza1/Garciaza1/files/12706715/certificado_Udemy_programacao-para-leigos-do-basico-ao-avancado.pdf)
+[Udemy-dev-web.pdf](https://github.com/Garciaza1/Garciaza1/files/12706714/Udemy-dev-web.pdf)
+[sql-cetificado(AVA).pdf](https://github.com/Garciaza1/Garciaza1/files/12706713/sql-cetificado.AVA.pdf)
+[Gustavo Garcia_Cyber Security.pdf](https://github.com/Garciaza1/Garciaza1/files/12706712/Gustavo.Garcia_Cyber.Security.pdf)
+
