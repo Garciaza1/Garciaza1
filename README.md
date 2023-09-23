@@ -9,8 +9,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Garciaza1)](https://github.com/anuraghazra/github-readme-stats)
 
-![WELLCOME TO MY GITHUB PROFILE 😎1](https://github.com/Garciaza1/Garciaza1/assets/102680004/e385a94d-11c3-4919-8afc-d29cea17b548)
-
+https://www.canva.com/design/DAFvRWm_iBo/view
 trasncription:
 
 WELLCOME TO MY
