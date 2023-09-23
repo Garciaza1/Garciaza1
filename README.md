@@ -41,15 +41,22 @@ Cyber ​​Security
 
 CRETIFICAÇÕES:
 
+- WEB DEVELOPMENT
 ![Udemy-dev-web-1](https://github.com/Garciaza1/Garciaza1/assets/102680004/7176de97-b0f0-4e68-9745-304e9fd0b5f4)
+
+- programming for laypeople from basic to advanced
 ![certificado_Udemy_programação-para-leigos-do-basico-ao-avançado-1](https://github.com/Garciaza1/Garciaza1/assets/102680004/707804c0-e1af-4e02-beb3-1fdcc7daafff)
+
+- SCRUM
 ![Certificate_scrum-1](https://github.com/Garciaza1/Garciaza1/assets/102680004/4452ce43-b648-41d0-8d33-807d427e5de3)
+
+- CYBER SECURUTY (ALL INGLESH)
 ![Gustavo Garcia_Cyber Security-1](https://github.com/Garciaza1/Garciaza1/assets/102680004/9f002fa5-7450-4f79-bce0-4a9fabd8df1a)
+
+- SQL
 ![sql-cetificado(AVA)-2](https://github.com/Garciaza1/Garciaza1/assets/102680004/778d0ff8-9575-4799-94fb-914772fc4c0d)
 
 <!---
 Garciaza1/Garciaza1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->[Certificate_scrum.pdf](https://github.com/Garciaza1/Garciaza1/files/12706716/Certificate_scrum.pdf)
-
-
