@@ -9,9 +9,10 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Garciaza1)](https://github.com/anuraghazra/github-readme-stats)
 
-![WELLCOME TO MY GITHUB PROFILE 😎](https://github.com/Garciaza1/Garciaza1/assets/102680004/a5678cb2-6a83-4888-b529-a10a0db71aec)
+![WELLCOME TO MY GITHUB PROFILE 😎1](https://github.com/Garciaza1/Garciaza1/assets/102680004/e385a94d-11c3-4919-8afc-d29cea17b548)
 
 trasncription:
+
 WELLCOME TO MY
       ↓
 GITHUB PROFILE 😎
@@ -28,6 +29,7 @@ My name is Gustavo Garcia
 
 More specifically in the BackEnd
  However, I want to take more chances on projects focused on the front, such as three.js
+ 
 <!---
 Garciaza1/Garciaza1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
