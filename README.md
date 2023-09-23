@@ -4,8 +4,7 @@
 - 🤙 I have a knowledge base in HTML5, CSS, SQL, doing pretty well in php but changing to Node.js.
 - 💞️ I’m looking to collaborate on the tecnology world (and the fitness world, because i can focus and grow my knowledge like my body 💪😎🤙 :p ) 
 - 📫 How to reach me on LinkedIn: ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white) https://www.linkedin.com/in/gustavo-garcia-287356232/
-
-- Just one year on path ↴
+- 🚀 Just one year on path ↴
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Garciaza1)](https://github.com/anuraghazra/github-readme-stats)
 
