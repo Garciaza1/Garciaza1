@@ -30,7 +30,13 @@ My name is Gustavo Garcia
 
 More specifically in the BackEnd
  However, I want to take more chances on projects focused on the front, such as three.js
- 
+
+ SKILS ↴
+PHP (POO, procedural)
+Node.js(Express.js)
+SQL (phpmyadmin/oracle)
+scrum
+Cyber ​​Security
 <!---
 Garciaza1/Garciaza1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
