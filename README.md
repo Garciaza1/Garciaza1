@@ -59,4 +59,4 @@ CRETIFICAÇÕES:
 <!---
 Garciaza1/Garciaza1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->[Certificate_scrum.pdf](https://github.com/Garciaza1/Garciaza1/files/12706716/Certificate_scrum.pdf)
+--->
