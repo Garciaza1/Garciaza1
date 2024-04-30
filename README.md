@@ -56,6 +56,13 @@ CRETIFICAÇÕES:
 - SQL
 ![sql-cetificado(AVA)-2](https://github.com/Garciaza1/Garciaza1/assets/102680004/778d0ff8-9575-4799-94fb-914772fc4c0d)
 
+- POWER BI
+![WFI17TLR-1](https://github.com/Garciaza1/Garciaza1/assets/102680004/df2dab40-7a97-4486-bea2-1fb74f522a53)
+  
+- DOCKER
+![IKBRDFRD-1](https://github.com/Garciaza1/Garciaza1/assets/102680004/ccb73ac2-fbde-422d-8c0f-3ac74c1acd2d)
+
+
 <!---
 Garciaza1/Garciaza1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
