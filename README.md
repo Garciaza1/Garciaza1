@@ -56,7 +56,7 @@ CRETIFICAÇÕES:
 - SQL
 ![sql-cetificado(AVA)-2](https://github.com/Garciaza1/Garciaza1/assets/102680004/778d0ff8-9575-4799-94fb-914772fc4c0d)
 
-- POWER BI
+- POWER BI PYTHON DATA ANALYTICS
 ![WFI17TLR-1](https://github.com/Garciaza1/Garciaza1/assets/102680004/df2dab40-7a97-4486-bea2-1fb74f522a53)
   
 - DOCKER
