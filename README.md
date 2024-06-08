@@ -6,7 +6,7 @@
 - 📫 How to reach me on ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white): https://www.linkedin.com/in/gustavo-garcia-287356232/
 - 🚀 Just two years on path ↴
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1500&weight=900&duration=3500&color=FFFFFF&background=FFFFFF00&vCenter=true&width=1000&height=60&lines=🙋🏻‍♀️+Hi+there.+My+name+is+Gustavo+garcia+and+I+am+a+FullStack+Web+Developer.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1500&weight=900&duration=3500&color=FFFFFF&background=FFFFFF00&vCenter=true&width=1000&height=60&lines=Hi+there.+My+name+is+Gustavo+garcia+and+I+am+a+FullStack+Dev.)
 
 | ![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garciaza1&layout=compact&theme=radical&&hide=jupyter%20notebook,php,makefile,c%2B%2B,cmake,hack,shell,html,css&langs_count=6&hide_border=True&line_height=20&PAT_1) | ![Athirson's GitHub stats](https://github-readme-stats.vercel.app/api?username=garciaza1&include=private&theme=radical&show_icons=true&hide_border=True&line_height=20&PAT_1) |
 | ----------- | ----------- |
