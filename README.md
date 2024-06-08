@@ -14,7 +14,6 @@
 - 🚀 Just two years on path ↴
 <div style="display: flex; justify-content: certer;">
 ![WELLCOME TO MY GITHUB PROFILE 😎 (2)](https://github.com/Garciaza1/Garciaza1/assets/102680004/0ca9726f-212e-486f-95a5-f935df9fb08a)
-</div>
 
 Image trasncription:
 
