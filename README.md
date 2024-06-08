@@ -12,7 +12,6 @@
 - 💞️ I’m looking to collaborate on the tecnology world (and the fitness world, because i can focus and grow my knowledge like my body 💪😎🤙 :p ) 
 - 📫 How to reach me on ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white): https://www.linkedin.com/in/gustavo-garcia-287356232/
 - 🚀 Just two years on path ↴
-<div style="display: flex; justify-content: certer;">
 ![WELLCOME TO MY GITHUB PROFILE 😎 (2)](https://github.com/Garciaza1/Garciaza1/assets/102680004/0ca9726f-212e-486f-95a5-f935df9fb08a)
 
 Image trasncription:
