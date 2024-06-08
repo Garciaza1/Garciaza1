@@ -8,6 +8,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Garciaza1&radius=16&theme=redical&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
+<br>
+<br>
+<!--linguagens-->
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -50,6 +53,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
 </div>
 
+<br>
+<br>
+
+<!-- Reach me -->
 <div align="center">
   <a href="https://www.linkedin.com/in/gustavo-garcia-287356232/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -65,10 +72,12 @@
   </a>
 </div>
 
+<br>
+<br>
 
 - 🚀 Just two years on path ↴
 
-  
+  <img href="https://github.com/Garciaza1/Garciaza1/assets/102680004/0ca9726f-212e-486f-95a5-f935df9fb08a">
 ![WELLCOME TO MY GITHUB PROFILE 😎 (2)](https://github.com/Garciaza1/Garciaza1/assets/102680004/0ca9726f-212e-486f-95a5-f935df9fb08a)
 
 Image trasncription:
@@ -125,8 +134,12 @@ CRETIFICAÇÕES:
 - DOCKER
 ![IKBRDFRD-1](https://github.com/Garciaza1/Garciaza1/assets/102680004/ccb73ac2-fbde-422d-8c0f-3ac74c1acd2d)
 
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 
-<img src="https://raw.githubusercontent.com/Garciaza1/Garciaza1/output/snake.svg" alt="Snake animation" />
 <!---
 Garciaza1/Garciaza1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
