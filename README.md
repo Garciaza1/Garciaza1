@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://github.com/Garciaza1/Garciaza1/assets/102680004/0dcd2f4a-6488-4be8-abcb-ecb4fcfc7fcc">
+</div>
+
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1500&weight=900&duration=3500&color=FFFFFF&background=FFFFFF00&vCenter=true&width=1000&height=60&lines=Hi+there.+My+name+is+Gustavo+garcia+and+I+am+a+FullStack+Dev.)
 
 <div align="center">
@@ -76,9 +81,10 @@
 <br>
 
 - 🚀 Just two years on path ↴
-
+<div align="center">
   <img src="https://github.com/Garciaza1/Garciaza1/assets/102680004/0ca9726f-212e-486f-95a5-f935df9fb08a">
-![WELLCOME TO MY GITHUB PROFILE 😎 (2)](https://github.com/Garciaza1/Garciaza1/assets/102680004/0ca9726f-212e-486f-95a5-f935df9fb08a)
+</div>
+<!-- ![WELLCOME TO MY GITHUB PROFILE 😎 (2)](https://github.com/Garciaza1/Garciaza1/assets/102680004/0ca9726f-212e-486f-95a5-f935df9fb08a) -->
 
 Image trasncription:
 
