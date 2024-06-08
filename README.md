@@ -1,9 +1,12 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1500&weight=900&duration=3500&color=FFFFFF&background=FFFFFF00&vCenter=true&width=1000&height=60&lines=Hi+there.+My+name+is+Gustavo+garcia+and+I+am+a+FullStack+Dev.)
 
-| ![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garciaza1&layout=compact&theme=radical&&hide=jupyter%20notebook,php,makefile,c%2B%2B,cmake,hack,shell,html,css&langs_count=6&hide_border=True&line_height=20&PAT_1) | ![Athirson's GitHub stats](https://github-readme-stats.vercel.app/api?username=garciaza1&include=private&theme=radical&show_icons=true&hide_border=True&line_height=20&PAT_1) |
-| ----------- | ----------- |
-| ![GitHub Commits](https://github-readme-streak-stats.herokuapp.com/?user=garciaza1&theme=radical&ring=e73737&currStreakNum=ffffff&hide_border=true) | ![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=garciaza1&theme=radical) |
-| ![Trophies](https://github-profile-trophy.vercel.app/?username=garciaza1&row=1&column=6&theme=radical&margin-w=15&margin-h=15) | ![Trophies](https://github-profile-trophy.vercel.app/?username=garciaza1&row=1&column=6&theme=radical&margin-w=15&margin-h=15) 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Garciaza1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Garciaza1&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Garciaza1&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Garciaza1&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Garciaza1&radius=16&theme=redical&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
+</div>
 
 - 👋 Hi, I’m @Garciaza1
 - 👀 I’m interested in learn and develop programs(do my own projects). 
